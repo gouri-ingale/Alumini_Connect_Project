@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572416285164",
+    "project_id": "alumini-connect-app",
+    "storage_bucket": "alumini-connect-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572416285164:android:c0de92545e6d2657aec8c9",
+        "android_client_info": {
+          "package_name": "com.example.alumini_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6NB6KbF1I6XlABkL2nB4x1xaJjkwg50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
