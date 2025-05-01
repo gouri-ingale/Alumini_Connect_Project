@@ -1,16 +1,13 @@
 # alumini_connect
 
-A new Flutter project.
+This is a Flutter Project which helps to search for the alumnies working in differet companies.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The Project Has The Following Features : 
 
-A few resources to get you started if this is your first Flutter project:
+- Dynamic insertion of Companies in the search option.
+- Group chat feature which allows any student/alumni to join the group chat.
+- Allows to view the alumnies profiles.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
